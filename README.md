@@ -18,7 +18,7 @@ $ python qr_generator.py
 
 ##Run the code in  VSCode
 
-Enter the text or URL to generate QR code: https://www.google.com
-Enter the filename for the generated QR code: qrcode
-QR Code successfully saved as 'qrcode.png'
+Enter the text or URL to generate QR code: https://www.linkedin.com/in/uday-chauhan-719986226/
+Enter the filename for the generated QR code: linkedinprofile
+QR Code successfully saved as 'linkedinprofile.png'
 
